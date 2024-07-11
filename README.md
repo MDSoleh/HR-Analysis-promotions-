@@ -18,17 +18,23 @@ Model building and evaluation using Scikit-learn*
 
 3.Data exploration:
 *Employing countplot, displot, histograms from seaborn, matplotlib libraries for various graphical insights about the datasets.*
+
 Count of employees who got promoted:
 ![Screenshot 2024-07-11 192555](https://github.com/MDSoleh/HR-Analysis/assets/99492800/ed469e53-128c-4470-9fe3-403613e39ad8)
+
 Count of employees who got promoted wrt to education:
 ![Screenshot 2024-07-11 192604](https://github.com/MDSoleh/HR-Analysis/assets/99492800/19f34a22-60c6-451d-8b14-06999504e71c)
+
 Count of employees who got promoted wrt to age:
 ![Screenshot 2024-07-11 192636](https://github.com/MDSoleh/HR-Analysis/assets/99492800/260a758b-da77-44a4-8fca-77f67f397842)
+
 Count of employees who got promoted wrt to previous_year_rating:
 ![Screenshot 2024-07-11 192656](https://github.com/MDSoleh/HR-Analysis/assets/99492800/95d0c6c4-c83f-484b-816c-ea3ab5fa688d)
+
 Count of employees who got promoted wrt to age & length of service:
 ![Screenshot 2024-07-11 192721](https://github.com/MDSoleh/HR-Analysis/assets/99492800/f44558ae-f89c-4312-81e7-a41f54cc8b78)
 ![Screenshot 2024-07-11 192734](https://github.com/MDSoleh/HR-Analysis/assets/99492800/bb6f2b3d-d875-45aa-a61a-3c428289aaad)
+
 Scatter plot for dataset exploration:
 ![Screenshot 2024-07-11 192749](https://github.com/MDSoleh/HR-Analysis/assets/99492800/407eaa74-8e62-4201-ae25-dda54f9ca764)
 ![Screenshot 2024-07-11 192832](https://github.com/MDSoleh/HR-Analysis/assets/99492800/7c673a7f-38e6-4bb0-b091-fa6fe1e5fec2)
