@@ -66,7 +66,7 @@ Analyzing inter-dependency between different attributes, here KPI's, award's won
 9.Gradient boosting model(GBM):
 ![Screenshot 2024-07-11 203825](https://github.com/MDSoleh/HR-Analysis/assets/99492800/cea0b2d5-1734-4c07-a768-bc6b26e6027a)
 
-10.Predictions of target variable by different models:
+10.Predictions for target variable by different models:
 ![Screenshot 2024-07-11 203843](https://github.com/MDSoleh/HR-Analysis/assets/99492800/9081bdcc-6e9d-4770-a9dd-863c8c09d034)
 
 
